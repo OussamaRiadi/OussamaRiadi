@@ -2,7 +2,9 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+Welcome to my digital space! I'm a passionate Android Developer with a talent for transforming ideas into engaging and functional mobile experiences. With a strong foundation in Kotlin , flutter, Kotlin, and Android SDK, I specialize in building intuitive and visually appealing mobile applications.
+
+My commitment to staying at the forefront of mobile technology ensures that I deliver cutting-edge solutions that not only meet but exceed user expectations. With a keen eye for detail and a love for clean, efficient code, I thrive on turning concepts into reality. Whether it's designing seamless user interfaces, integrating advanced features, or optimizing app performance, I bring a meticulous approach to every project. I invite you to explore my portfolio and witness the intersection of creativity and technical expertise in the dynamic world of Android development.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
