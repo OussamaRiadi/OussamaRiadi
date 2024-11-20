@@ -1,6 +1,6 @@
 # 🏄‍♂️ Oussama RIADI
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Developer/Filmmaker)`**
 
 Welcome to my digital space! I'm a passionate Android Developer with a talent for transforming ideas into engaging and functional mobile experiences. With a strong foundation in Kotlin , flutter and Android SDK, I specialize in building intuitive and visually appealing mobile applications.
 
