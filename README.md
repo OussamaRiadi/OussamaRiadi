@@ -74,24 +74,24 @@ Android taxi meter simulation with real-time fare calculation, maps integration,
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=OussamaRiadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
   />
   
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaRiadi&layout=compact&theme=tokyonight&hide_border=true" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=OussamaRiadi&theme=tokyonight&hide_border=true" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" 
+    src="https://github-profile-trophy.vercel.app/?username=OussamaRiadi&theme=tokyonight&no-frame=true&row=1&column=6" 
   />
 </p>
 
@@ -104,7 +104,7 @@ Android taxi meter simulation with real-time fare calculation, maps integration,
   <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/OussamaRiadi">
   <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
