@@ -40,29 +40,54 @@ Currently, I focus on Android Development, cross-platform mobile applications, a
 #
 
 
-###  GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=OussamaRiadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=OussamaRiadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
   />
   
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaRiadi&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaRiadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
   />
 </p>
 
 <p align="center">
   <img 
+    width="70%"
     src="https://streak-stats.demolab.com?user=OussamaRiadi&theme=tokyonight&hide_border=true" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=OussamaRiadi&theme=tokyonight&no-frame=true&row=1&column=6" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OussamaRiadi&theme=tokyonight" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    height="170em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OussamaRiadi&theme=tokyonight" 
+  />
+  
+  <img 
+    height="170em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OussamaRiadi&theme=tokyonight" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=OussamaRiadi&theme=tokyonight&no-frame=true&row=1&column=7" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=OussamaRiadi&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
   />
 </p>
 
