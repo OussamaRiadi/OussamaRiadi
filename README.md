@@ -51,23 +51,6 @@ Currently, I focus on Android Development, cross-platform mobile applications, a
 
 #
 
-### 🚀 Featured Projects
-
-📱 **QiblaCall**  
-Modern Islamic application with prayer times, Adhan notifications, and Qibla direction using Kotlin.
-
-🍔 **Restaurant App**  
-Modern food ordering and restaurant menu application built with Flutter and MVVM architecture.
-
-🎬 **CulturaConnect**  
-Cultural recommendation platform integrating Movies, Books, and Music APIs with Firebase.
-
-🚕 **Taxi Meter App**  
-Android taxi meter simulation with real-time fare calculation, maps integration, and multilingual support.
-
----
-
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
