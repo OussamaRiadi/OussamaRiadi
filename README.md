@@ -12,39 +12,27 @@ Currently, I focus on Android Development, cross-platform mobile applications, a
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-
-<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-
-<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-
-<img align="left" alt="Jetpack Compose" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/jetpackcompose" />
-
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-
-<img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-
-<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
-<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<p align="left">
+<img alt="Kotlin" width="35px" src="https://skillicons.dev/icons?i=kotlin" />
+<img alt="Java" width="35px" src="https://skillicons.dev/icons?i=java" />
+<img alt="Flutter" width="35px" src="https://skillicons.dev/icons?i=flutter" />
+<img alt="Dart" width="35px" src="https://skillicons.dev/icons?i=dart" />
+<img alt="Android Studio" width="35px" src="https://skillicons.dev/icons?i=androidstudio" />
+<img alt="Firebase" width="35px" src="https://skillicons.dev/icons?i=firebase" />
+<img alt="SQLite" width="35px" src="https://skillicons.dev/icons?i=sqlite" />
+<img alt="React" width="35px" src="https://skillicons.dev/icons?i=react" />
+<img alt="TailwindCSS" width="35px" src="https://skillicons.dev/icons?i=tailwind" />
+<img alt="HTML5" width="35px" src="https://skillicons.dev/icons?i=html" />
+<img alt="CSS3" width="35px" src="https://skillicons.dev/icons?i=css" />
+<img alt="JavaScript" width="35px" src="https://skillicons.dev/icons?i=javascript" />
+<img alt="TypeScript" width="35px" src="https://skillicons.dev/icons?i=typescript" />
+<img alt="Git" width="35px" src="https://skillicons.dev/icons?i=git" />
+<img alt="GitHub" width="35px" src="https://skillicons.dev/icons?i=github" />
+<img alt="Linux" width="35px" src="https://skillicons.dev/icons?i=linux" />
+<img alt="Figma" width="35px" src="https://skillicons.dev/icons?i=figma" />
+<img alt="Postman" width="35px" src="https://skillicons.dev/icons?i=postman" />
+<img alt="VS Code" width="35px" src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
 <br />
 <br />
@@ -52,7 +40,7 @@ Currently, I focus on Android Development, cross-platform mobile applications, a
 #
 
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img 
